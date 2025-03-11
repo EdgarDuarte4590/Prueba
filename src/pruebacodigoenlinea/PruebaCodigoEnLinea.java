@@ -17,7 +17,8 @@ public class PruebaCodigoEnLinea {
         // TODO code application logic here
         System.out.println("Hola Mundo");
         System.out.println("Hello world");
-       
+        System.out.println("Hola world");
+        System.out.println("Hola de nuevo");
+
     }
-    
 }
